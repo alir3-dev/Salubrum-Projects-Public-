@@ -1,33 +1,46 @@
-# Salubrum Growth Strategy Portfolio
+# Salubrum Healthcare Marketing Platform
 
-Welcome to the Salubrum Growth Strategy Portfolio. This repository showcases my work as an intern at an AI healthcare startup, focusing on growth strategy, market analysis, and data-driven insights.
+## Overview
+The Salubrum Healthcare Marketing Platform is a comprehensive solution designed to enhance outreach and engagement for healthcare providers. It encompasses various projects that address different aspects of healthcare marketing.
 
-## 📊 Key Statistics
-- **Procedures Analyzed:** 15
-- **Personas Developed:** 5
-- **Consumer Records Analyzed:** 300M+
+## Projects
+1. **Project 1**: [Description of project 1]
+2. **Project 2**: [Description of project 2]
+3. **Project 3**: [Description of project 3]
+4. **Project 4**: [Description of project 4]
+5. **Project 5**: [Description of project 5]
+6. **Project 6**: [Description of project 6]
+7. **Project 7**: [Description of project 7]
+8. **Project 8**: [Description of project 8]
+9. **Project 9**: [Description of project 9]
+10. **Project 10**: [Description of project 10]
 
-## 🎯 Portfolio Highlights
+## Personas
+The Salubrum Healthcare Marketing Platform is tailored for the following personas:
+- **Persona 1**: [Description]
+- **Persona 2**: [Description]
+- **Persona 3**: [Description]
+- **Persona 4**: [Description]
 
-### 1. DH Audience Analytics
-Comprehensive analysis of Digital Health audience engagement, user demographics, preferences, and behaviors to inform marketing strategies.
+## Integration Flow
+The integration flow among the projects is designed to ensure seamless data sharing and functionality. [Briefly describe how the projects integrate]
 
-### 2. Persona Development
-Detailed personas created based on audience analytics to better target and customize services based on real user needs.
+## Quick Start Instructions
+1. Clone the repository
+   ```
+   git clone https://github.com/alir3-dev/Salubrum-Projects-Public.git
+   ```
+2. Navigate to the directory
+   ```
+   cd Salubrum-Projects-Public
+   ```
+3. Install dependencies
+   ```
+   npm install
+   ```
+4. Start the application
+   ```
+   npm start
+   ```
 
-### 3. Healthcare Market Analysis
-In-depth analysis of the healthcare market landscape, trends, competitive positioning, and growth opportunities.
-
-### 4. SQL Analytics & Data Management
-Leveraged SQL to extract, manipulate, and analyze large datasets (300M+ consumer records) for actionable insights.
-
-### 5. Dashboard Development
-Created interactive dashboards to visualize KPIs and analytics results, enhancing stakeholder decision-making.
-
-## 🛠️ Technologies Used
-- **Analytics Platforms:** Definitive Healthcare, StackAdapt
-- **Visualization:** Tableau
-- **Data Management:** SQL
-- **Tools:** Excel, Python
-
-## 📁 Repository Structure
+For more detailed instructions, please refer to the documentation for each individual project.
